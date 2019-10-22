@@ -2,7 +2,7 @@
 
 ### 徽章
 
-[![Build Status](https://travis-ci.org/xialonghua/kotmvp.svg?branch=master)](https://travis-ci.org/xialonghua/kotmvp)
+[![Build Status](	https://img.shields.io/github/issues/Stlve/13shui)
 
 ### 运行环境
 
