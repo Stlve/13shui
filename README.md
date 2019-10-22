@@ -3,7 +3,7 @@
 ### 徽章
 
 [![GitHub issues](https://img.shields.io/github/issues/Stlve/13shui)](https://github.com/Stlve/13shui)
-
+[图片](https://img.shields.io/github/issues/Stlve/13shui)
 ### 运行环境
 
 安卓手机
