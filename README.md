@@ -2,7 +2,7 @@
 
 ### 徽章
 
-[![Build Status](	https://img.shields.io/github/issues/Stlve/13shui)
+[！[Build Status](https://img.shields.io/github/forks/Stlve/13shui)
 
 ### 运行环境
 
