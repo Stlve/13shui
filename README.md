@@ -2,15 +2,15 @@
 
 ### 徽章
 
-[![GitHub issues](https://img.shields.io/github/issues/Stlve/13shui)](https://github.com/Stlve/13shui/issues)
+[![GitHub issues](https://img.shields.io/github/issues/Stlve/13shui)](https://github.com/Stlve/13shui)
 
 ### 运行环境
 
 安卓手机
 
-### 编译方法
+### 编译与运行
 
-java（基于AS）
+java（基于AS），运行后打开虚拟机即可开始操作
 
 ### 使用方法
 
